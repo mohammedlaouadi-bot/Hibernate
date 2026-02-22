@@ -25,7 +25,7 @@
         <configuration>
           <archive>
             <manifest>
-              <mainClass>ma.fstm.ilisi.projets.MainClassName</mainClass>
+              <mainClass>view.Form_Main</mainClass>
             </manifest>
           </archive>
           <descriptorRefs>
